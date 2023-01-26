@@ -22,12 +22,14 @@ use command line argument
 end the program
 
 ## PROGRAM:
+```
 num_words=0
 with open('text.txt','r') as f1:
     for i in f1:
         word = i.split()
         num_words += len(word)
 print("Number of words in the file = {}".format(num_words))
+```
 
 ### OUTPUT:
 ![copy](https://user-images.githubusercontent.com/120230694/214786835-3ea3e5ee-c4f4-4e46-8aac-3dbb1733aed5.png)
