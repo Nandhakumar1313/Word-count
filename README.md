@@ -22,6 +22,9 @@ use command line argument
 end the program
 
 ## PROGRAM:
+#Program developed by:G.R.Nandhakumar
+ 
+#Reference no:22001737
 ```
 num_words=0
 with open('text.txt','r') as f1:
