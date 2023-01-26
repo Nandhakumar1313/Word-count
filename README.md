@@ -6,17 +6,16 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-import numpy as np
+initialize the value for count as zero.
 
 ### Step 2:
-enter the correct input values
+using open command open the txt file to read
  
 ### Step 3: 
-write a python program for getting the word count from the contents of a file using command 
-line argument
+use the split() command
 
 ### Step 4:
-use command line argument
+print the counted words.
 
 ### Step 5:
 end the program
