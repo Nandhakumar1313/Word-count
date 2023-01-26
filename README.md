@@ -43,7 +43,8 @@ print("Number of words in the file = {}".format(num_words))
 
 
 ### OUTPUT:
-![](./copy.png)
+![copy](https://user-images.githubusercontent.com/120230694/214786835-3ea3e5ee-c4f4-4e46-8aac-3dbb1733aed5.png)
+
 
 
 
